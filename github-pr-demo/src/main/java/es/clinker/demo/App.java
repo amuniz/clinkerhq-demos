@@ -7,7 +7,7 @@ package es.clinker.demo;
 public class App 
 {
     public static void main(String[] args) {
-        or(int i = 0; i < 2; i++) {
+        for(int i = 0; i < 2; i++) {
             System.out.println("Hello World " + i + "!");
         }
     }
